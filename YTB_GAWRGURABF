@@ -4,24 +4,24 @@ local Window = OrionLib:MakeWindow({Name = "TBoy Roblox", HidePremium = false, S
 
 local Tab = Window:MakeTab({
 	Name = "Scripts Cần Key",
-	Icon = "rbxassetid://83190276951914",
+	Icon = "rbxassetid://138282669593170",
 	PremiumOnly = false
 })
 
 local Tab2 = Window:MakeTab({
 	Name = "Mod Client",
-	Icon = "rbxassetid://83190276951914",
+	Icon = "rbxassetid://138282669593170",
 	PremiumOnly = false
 })
 
 local Tab3 = Window:MakeTab({
 	Name = "Mod Game",
-	Icon = "rbxassetid://83190276951914",
+	Icon = "rbxassetid://138282669593170",
 	PremiumOnly = false
 })
 local Tab4 = Window:MakeTab({
 	Name = "Script Farm",
-	Icon = "rbxassetid://83190276951914",
+	Icon = "rbxassetid://138282669593170",
 	PremiumOnly = false
 })
 Tab3:AddButton({
